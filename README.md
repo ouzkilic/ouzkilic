@@ -11,7 +11,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey..
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - 🔭 I’m working as a Backend Developer and contributing to backend for building applications.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
